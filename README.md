@@ -9,4 +9,4 @@ The official code will be released soon.
 
 ## Publication
 For more details, please refer to our paper:
-* **Mingyuan Meng, Dagan Feng, Lei Bi, and Jinman Kim, "Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration," IEEE/CVF conference on Computer Vision and Pattern Recognition (CVPR), 2024. (Accepted for Oral Presentation)**
+* **Mingyuan Meng, Dagan Feng, Lei Bi, and Jinman Kim, "Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration," IEEE/CVF conference on Computer Vision and Pattern Recognition (CVPR), 2024. (Oral Presentation && Best Paper Candidate)**
