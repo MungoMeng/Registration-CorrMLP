@@ -17,8 +17,8 @@ class CorrMLP(nn.Module):
     
     def __init__(self, 
                  in_channels: int = 1, 
-                 enc_channels: int = 8,
-                 dec_channels: int = 16,
+                 enc_channels: int = 16,
+                 dec_channels: int = 32,
                  use_checkpoint: bool = True):
         super().__init__()
         
