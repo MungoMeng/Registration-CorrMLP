@@ -3,6 +3,7 @@ Deformable image registration is a fundamental step for medical image analysis. 
 
 ## Overview
 ![Overview](https://github.com/MungoMeng/Registration-CorrMLP/blob/master/Figure/Overview.png)
+![CMW-MLP](https://github.com/MungoMeng/Registration-CorrMLP/blob/master/Figure/CMW-MLP.png)
 
 ## Publication
 For more details, please refer to our paper:
