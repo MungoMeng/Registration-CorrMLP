@@ -7,4 +7,4 @@ Deformable image registration is a fundamental step for medical image analysis. 
 
 ## Publication
 For more details, please refer to our paper:
-* **Mingyuan Meng, Dagan Feng, Lei Bi, and Jinman Kim, "Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 9645-9654, 2024. (Oral Presentation && Best Paper Candidate) [[arXiv](https://arxiv.org/abs/2406.00123)]**
+* **Mingyuan Meng, Dagan Feng, Lei Bi, and Jinman Kim, "Correlation-aware Coarse-to-fine MLPs for Deformable Medical Image Registration," IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 9645-9654, 2024. (Oral Presentation && Best Paper Candidate) [[Paper](https://arxiv.org/abs/2406.00123)] [[Video](https://www.youtube.com/watch?v=Rq2EAVr_KQM)]**
