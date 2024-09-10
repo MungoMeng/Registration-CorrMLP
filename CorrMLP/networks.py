@@ -273,7 +273,7 @@ class PatchExpanding_block(nn.Module):
         return x_out
 
 
-class CMWMLP_block(nn.Module):  #input shape: n, c, h, w， d
+class CMWMLP_block(nn.Module):  #input shape: n, c, h, w, d
     """Correlation-aware multi-window (CMW) MLP block."""
    
     def __init__(self, in_channels, num_channels, use_corr=True, use_checkpoint=False):
